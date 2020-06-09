@@ -49,4 +49,3 @@ setup(
         'Development Status :: 1 - Planning'
     ]
 )
-
